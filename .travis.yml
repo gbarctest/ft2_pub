@@ -1,2 +1,6 @@
-dist: bionic
-script: echo "hello"
+dist: jammy
+language: generic
+script:
+ - echo xx
+ - echo yy
+ - echo zz
